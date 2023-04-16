@@ -1,0 +1,295 @@
+﻿LOGO
+position: absolute;
+width: 139.09px;
+height: 33px;
+left: 154px;
+top: 20px;
+background: #FFFFFF;
+================================================
+Home
+Why Verso
+Team
+Roadmap
+Blog
+Whitepaper
+
+position: absolute;
+width: 90px;
+height: 29px;
+left: 936px;
+top: 19px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 180%;
+/* identical to box height, or 29px */
+
+text-align: center;
+
+color: #FFFFFF;
+===========================================================
+How to buy VSO
+position: absolute;
+width: 790px;
+height: 80px;
+left: 326px;
+top: 221px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: 900;
+font-size: 51px;
+line-height: 80px;
+/* identical to box height, or 157% */
+
+text-align: center;
+letter-spacing: -2.4px;
+
+color: #FFFFFF;
+================================================================
+Verso(VSO) is currently available on Gate.io as well as on several decentralized exchanges(DEX) connected to the Avalanche blockchain.
+position: absolute;
+width: 689px;
+height: 56px;
+left: 376px;
+top: 321px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 28px;
+/* or 133% */
+
+text-align: center;
+letter-spacing: -0.2px;
+
+color: #FFFFFF;
+===============================================================
+CEX Listings
+DEX Listings
+position: absolute;
+width: 102px;
+height: 28px;
+left: 803px;
+top: 419px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+text-align: center;
+letter-spacing: -0.2px;
+
+color: #FFFFFF;
+=============================================================
+If you’re new to Avalache, we suggest you also to check out our Reference Guide
+position: absolute;
+height: 28px;
+left: 27.92%;
+right: 27.78%;
+top: calc(50% - 28px/2 - 674.5px);
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+letter-spacing: -0.4px;
+
+color: #FFFFFF;
+===========================================================
+How to add VSO to Metamask
+position: absolute;
+width: 598px;
+height: 80px;
+left: 421px;
+top: 957px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: 800;
+font-size: 44px;
+line-height: 80px;
+/* identical to box height, or 182% */
+
+text-align: center;
+letter-spacing: -2.4px;
+
+color: #FFFFFF;
+==================================================================
+First, make sure your Metamask 
+is connected with Avalanche Network. If you don’t see Avalache on the list of options, click here.
+
+
+Once you’ve connected to Avalache, choose your account and click “Add Token”. Enter the VSO contract address found here.
+
+position: absolute;
+width: 281px;
+height: 112px;
+left: 873px;
+top: 1426px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+letter-spacing: -0.2px;
+
+color: rgba(255, 255, 255, 0.83);
+=======================================================
+Liquidity for DWETH-VSO
+Liquidity for AVAX-VSO
+Liquidity for PNG-VSO
+Liquidity for WAVAX-VSO
+Stake VSO
+Stake + Lock VSO
+
+
+DWETH is a wrapped ETH version on Avalanche, provided by DCTDAO (Ethereum - Avalanche Cross-Chain bridge)
+Double-Reward farm
+Launching soon
+
+position: absolute;
+width: 190px;
+height: 28px;
+left: 282px;
+top: 2043px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+letter-spacing: -0.2px;
+
+/* Base/Dark */
+
+color: #1F3E4F;
+==============================================================
+APY % can vary depending on the pool setup, remaining duration, etc.
+
+position: absolute;
+width: 315px;
+height: 56px;
+left: 317px;
+top: 2309px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+letter-spacing: -0.2px;
+
+/* Base/Dark */
+
+color: #1F3E4F;
+=========================================================
+Subscribe to our
+newsletter
+position: absolute;
+height: 58px;
+left: 0%;
+right: 42.9%;
+top: calc(50% - 58px/2 - 40.5px);
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 29px;
+letter-spacing: -0.3px;
+
+color: #FFFFFF;
+=========================================================
+Lorem Ipsum
+position: absolute;
+height: 20px;
+left: 0%;
+right: 16.98%;
+top: calc(50% - 20px/2 - 39px);
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: -0.204545px;
+
+color: #FFFFFF;
+========================================================
+Copyright © 2021. Verso Network AG. All rights reserved.
+position: absolute;
+width: 376px;
+height: 20px;
+left: 155px;
+top: 2950px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: -0.204545px;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+==========================================================
+Privacy Policy
+position: absolute;
+width: 93px;
+height: 20px;
+left: 1179px;
+top: 2950px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: -0.204545px;
+
+color: #FFFFFF;
+====================================================
+BACKGROUND
+position: absolute;
+width: 1440px;
+height: 914px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, rgba(7, 115, 250, 0.7) 0%, #0773FA 80.03%);
+
+=============================================================
+LINE
+position: absolute;
+width: 1723px;
+height: 0px;
+left: -141px;
+top: 1098px;
+
+border: 1px solid rgba(236, 236, 236, 0.3);
+transform: matrix(0.92, -0.39, 0.39, 0.92, 0, 0);
